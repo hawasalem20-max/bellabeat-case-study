@@ -53,3 +53,7 @@ The **Bellabeat App** was selected as the primary product focus because it can u
 ## Project Files
 
 - `project.docx` — Full case study and analysis
+
+  ## About Me
+
+I am an Integrated Business student building my skills in data analysis and business problem-solving. This project is part of my data analytics portfolio and demonstrates my ability to clean data, analyze trends, create visualizations, and turn data into business recommendations.
