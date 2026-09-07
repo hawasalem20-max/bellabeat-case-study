@@ -30,14 +30,6 @@ Analyze Fitbit smart-device usage data to identify trends in how consumers use s
 
 ## Product Focus
 ## Visualizations
-## Skills Demonstrated
-
-- Data cleaning
-- Data analysis
-- Spreadsheet formulas
-- Data visualization
-- Finding trends and insights
-- Business recommendations
 
 ### Average Daily Minutes by Activity Level
 ![Average Daily Minutes by Activity Level](Average%20Daily%20Minutes%20by%20Activity%20Level.png)
@@ -48,6 +40,15 @@ Analyze Fitbit smart-device usage data to identify trends in how consumers use s
 ### Average Sleep Time vs. Time in Bed
 ![Average Sleep Time vs. Time in Bed](Average%20Sleep%20Time%20vs.%20Time%20in%20Bed.png)
 The **Bellabeat App** was selected as the primary product focus because it can use activity and sleep insights to encourage healthier daily habits.
+
+## Skills Demonstrated
+
+- Data cleaning
+- Data analysis
+- Spreadsheet formulas
+- Data visualization
+- Finding trends and insights
+- Business recommendations
 
 ## Project Files
 
