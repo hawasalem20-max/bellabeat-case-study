@@ -29,7 +29,16 @@ Analyze Fitbit smart-device usage data to identify trends in how consumers use s
 3. Promote sleep tracking through personalized sleep insights and bedtime reminders.
 
 ## Product Focus
+## Visualizations
 
+### Average Daily Minutes by Activity Level
+![Average Daily Minutes by Activity Level](Average%20Daily%20Minutes%20by%20Activity%20Level.png)
+
+### Average Daily Steps vs. 10,000-Step Goal
+![Average Daily Steps vs. 10,000-Step Goal](Average%20Daily%20Steps%20vs.%2010,000-Step%20Goal.png)
+
+### Average Sleep Time vs. Time in Bed
+![Average Sleep Time vs. Time in Bed](Average%20Sleep%20Time%20vs.%20Time%20in%20Bed.png)
 The **Bellabeat App** was selected as the primary product focus because it can use activity and sleep insights to encourage healthier daily habits.
 
 ## Project Files
