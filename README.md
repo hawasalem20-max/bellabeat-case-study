@@ -30,6 +30,14 @@ Analyze Fitbit smart-device usage data to identify trends in how consumers use s
 
 ## Product Focus
 ## Visualizations
+## Skills Demonstrated
+
+- Data cleaning
+- Data analysis
+- Spreadsheet formulas
+- Data visualization
+- Finding trends and insights
+- Business recommendations
 
 ### Average Daily Minutes by Activity Level
 ![Average Daily Minutes by Activity Level](Average%20Daily%20Minutes%20by%20Activity%20Level.png)
